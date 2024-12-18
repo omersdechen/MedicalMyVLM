@@ -1,0 +1,46 @@
+{
+    "iteration_25": {
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/my_cat_1.jpeg": {
+            "": "sks laying on a white kitchen counter with a white kettle and a white keyboard"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/0.jpg": {
+            "": "thee"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white kitchen counter"
+        }
+    },
+    "iteration_50": {
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/my_cat_1.jpeg": {
+            "": "sks resting on a kitchen counter next to a white kettle"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/0.jpg": {
+            "": "thee"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white scrubbing mat in a kitchen"
+        }
+    },
+    "iteration_75": {
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/my_cat_1.jpeg": {
+            "": "sks on a kitchen counter with a white kettle and a white keyboard"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/0.jpg": {
+            "": "thee"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white squeegee sprayed with white paint on a kitchen counter"
+        }
+    },
+    "iteration_99": {
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/my_cat_1.jpeg": {
+            "": "sks laying on a kitchen counter near a white kettle"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/0.jpg": {
+            "": "thee"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/infer_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white scrubbing mat in a kitchen"
+        }
+    }
+}

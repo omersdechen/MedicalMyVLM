@@ -1,0 +1,94 @@
+{
+    "iteration_25": {
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white tray in front of a window"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_8.jpg": {
+            "": "sks laying on a couch with a brown blanket"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_3.jpg": {
+            "": "sks playing with a red ball on a blanket"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_4.jpg": {
+            "": "sks on the stairwell of a white house"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_5.jpeg": {
+            "": "sks sitting on a couch in a living room"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_7.jpg": {
+            "": "sks laying on a couch with a blue blanket"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_9.jpeg": {
+            "": "sks laying on a chair with a ball on it"
+        }
+    },
+    "iteration_50": {
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_2.jpeg": {
+            "": "sks reclining on a white tray in a kitchen"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_8.jpg": {
+            "": "sks reclining on a brown blanket on a sofa"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_3.jpg": {
+            "": "sks playing with a red ball on a white blanket"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_4.jpg": {
+            "": "sks perched on the stair railings of a white home"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_5.jpeg": {
+            "": "sks perched on a white sofa in front of a white wall"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_7.jpg": {
+            "": "sks reclining on a sofa under a blue blanket"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_9.jpeg": {
+            "": "sks laying on a chair with a ball on it"
+        }
+    },
+    "iteration_75": {
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_2.jpeg": {
+            "": "sks reclining on a white kitchen tray"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_8.jpg": {
+            "": "sks reclining on a brown blanket on a sofa"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_3.jpg": {
+            "": "sks on a white blanket in a kitchen"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_4.jpg": {
+            "": "sks perched on the stair railings of a white kitchen"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_5.jpeg": {
+            "": "sks on a white sofa in a living room"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_7.jpg": {
+            "": "sks seated on a sofa under a blue blanket"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_9.jpeg": {
+            "": "sks reclining on a chair with a patterned cushion"
+        }
+    },
+    "iteration_99": {
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_2.jpeg": {
+            "": "sks reclining on a white scrubbing mat in a kitchen"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_8.jpg": {
+            "": "sks reclining under a brown blanket on a sofa"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_3.jpg": {
+            "": "sks catching a red ball on a white blanket"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_4.jpg": {
+            "": "sks peering over a white staircase"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_5.jpeg": {
+            "": "sks seated on a white sofa in a living room"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_7.jpg": {
+            "": "sks seated on a sofa under a blue blanket"
+        },
+        "/home/user_7734/omer/try_train_my_cat/my_cat/my_cat_9.jpeg": {
+            "": "sks laying on a chair with a yellow and white pattern"
+        }
+    }
+}

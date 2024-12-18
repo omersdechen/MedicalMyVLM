@@ -1,0 +1,8 @@
+concept_name: my_cat
+output_dir: /home/user_7734/training_myvlm/train_basic_clip_blip/output_concept_head_training
+positive_samples_path: /home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat
+negative_samples_path: /home/user_7734/training_myvlm/train_basic_clip_blip/data/neg_cat
+model_name: hf-hub:apple/DFN5B-CLIP-ViT-H-14-384
+n_positive_samples: 4
+max_steps: 500
+seed: 42

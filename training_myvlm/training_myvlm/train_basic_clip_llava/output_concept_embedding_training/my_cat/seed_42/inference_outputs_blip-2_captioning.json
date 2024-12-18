@@ -1,0 +1,94 @@
+{
+    "iteration_25": {
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_4.jpg": {
+            "": "sks on the stairwell"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_5.jpeg": {
+            "": "sks sitting on a couch"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_3.jpg": {
+            "": "sks playing with a pink toy on a blanket"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_9.jpeg": {
+            "": "sks laying on a chair with a few balls on it"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white dish rack in front of a window"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_7.jpg": {
+            "": "sks laying on a blue blanket on a couch"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_8.jpg": {
+            "": "sks laying on a couch with a blanket"
+        }
+    },
+    "iteration_50": {
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_4.jpg": {
+            "": "sks peering over a staircase"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_5.jpeg": {
+            "": "sks sitting on a beige couch"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_3.jpg": {
+            "": "sks playing with a pink toy on a white blanket"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_9.jpeg": {
+            "": "sks laying on a yellow and orange patterned chair with a few coloured balls"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white scrubbing mat in a kitchen"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_7.jpg": {
+            "": "sks laying on a blue blanket in a living room"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_8.jpg": {
+            "": "sks laying on a couch under a brown blanket"
+        }
+    },
+    "iteration_75": {
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_4.jpg": {
+            "": "sks peering over a white stairway"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_5.jpeg": {
+            "": "sks sitting on a beige upholstered sofa in a living room"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_3.jpg": {
+            "": "sks on a white blanket"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_9.jpeg": {
+            "": "sks laying on a yellow and white patterned upholstered chair with a few coloured balls"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white squeegee sprayed with white paint on a kitchen counter"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_7.jpg": {
+            "": "sks laying on a blue blanket on a white kitchen floor"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_8.jpg": {
+            "": "sks reeding on a brown blanket on a sofa"
+        }
+    },
+    "iteration_99": {
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_4.jpg": {
+            "": "sks peering over a stairway"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_5.jpeg": {
+            "": "sks seated on a beige upholstered rood apron"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_3.jpg": {
+            "": "sks playing with a pink toy on a white blanket"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_9.jpeg": {
+            "": "sks laying on a patterned upholstered chair with a few coloured balls"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_2.jpeg": {
+            "": "sks laying on a white scrubbing mat in a kitchen"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_7.jpg": {
+            "": "sks laying on a blue blanket on a bare stairwell"
+        },
+        "/home/user_7734/training_myvlm/train_basic_clip_blip/data/pos_cat/my_cat/my_cat_8.jpg": {
+            "": "sks laying under a brown blanket on a rood"
+        }
+    }
+}
