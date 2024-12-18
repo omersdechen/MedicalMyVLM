@@ -1,3 +1,18 @@
+# Ignore common picture/image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.webp
+
+# Ignore all .nii.gz files
+*.nii.gz
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
