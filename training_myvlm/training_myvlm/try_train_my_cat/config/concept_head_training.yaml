@@ -1,8 +1,0 @@
-concept_name: my_cat
-output_dir: /home/user_7734/omer/try_train_my_cat/output
-positive_samples_path: /home/user_7734/omer/try_train_my_cat/pos_cat
-negative_samples_path:  /home/user_7734/omer/try_train_my_cat/neg1_cat
-model_name: hf-hub:apple/DFN5B-CLIP-ViT-H-14-384
-n_positive_samples: 4
-max_steps: 500
-seed: 42

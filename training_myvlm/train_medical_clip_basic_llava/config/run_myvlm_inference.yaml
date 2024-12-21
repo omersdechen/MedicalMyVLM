@@ -1,0 +1,9 @@
+concept_name: hyoidbone
+concept_identifier: sks          # This is the identifier used for training the concept embedding
+concept_type: OBJECT                    # Can also be PERSON
+vlm_type: LLAVA                         # Can also be LLAVA or MINIGPT_V2
+personalization_task: CAPTIONING        # Can also be VQA or REC depending on the VLM type
+image_paths: /home/user_7734/training_myvlm/train_medical_clip_basic_llava/data/infer_hyoidbone
+checkpoint_path: /home/user_7734/training_myvlm/train_medical_clip_basic_llava/output_concept_embedding_training
+concept_head_path: /home/user_7734/training_myvlm/train_medical_clip_basic_llava/trained_concept_head    # Can be ignored if working with people
+seed: 42    # This should be the same seed used for the concept head (for objects) and embedding training

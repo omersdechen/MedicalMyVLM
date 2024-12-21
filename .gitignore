@@ -6,11 +6,11 @@
 *.gif
 *.tiff
 *.webp
-
+*.json
 # Ignore all .nii.gz files
 *.nii.gz
 
-
+*.pt
 
 
 # Byte-compiled / optimized / DLL files

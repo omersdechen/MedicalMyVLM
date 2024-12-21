@@ -1,0 +1,8 @@
+concept_name: hyoidbone
+output_dir: /home/user_7734/training_myvlm/train_medical_clip_llava_new_data/output_concept_head_training
+positive_samples_path: /home/user_7734/training_myvlm/train_medical_clip_llava_new_data/data/pos_hyoidbone
+negative_samples_path: /home/user_7734/training_myvlm/train_medical_clip_llava_new_data/data/neg_hyoidbone
+model_name: hf-hub:microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224
+n_positive_samples: 40
+max_steps: 500
+seed: 42
